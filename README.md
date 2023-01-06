@@ -1,3 +1,5 @@
 # my_concepts
 
-1.Outliers Detection -> Interquartile range Method (IQR)
+**1. Statistics**
+
+Outliers Detection -> Interquartile Range Method (IQR)
